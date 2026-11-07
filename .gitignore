@@ -1,0 +1,18 @@
+# Local reports and diagnostic output
+reports/
+Reports/
+*.report
+*.log
+
+# Temporary and editor files
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
