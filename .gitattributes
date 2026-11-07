@@ -2,4 +2,4 @@
 * text=auto
 
 # Language detection
-*.sh linguist-language=Shell
+*.sh linguist-language=Shell linguist-detectable
